@@ -1,3 +1,6 @@
+pillow
+matplotlib
 numpy
-scikit-learn
+colormap
 pandas
+easydev
